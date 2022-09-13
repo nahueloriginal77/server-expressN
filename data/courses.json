@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "title": "✌️ Taller de fotografía: Taller práctico de fotografía reflex.",
+      "category": "arte",
+      "description": "Veremos cómo funcionan las cámaras reflex, y algunas técnicas de composoción con mirada fotográfica.",
+      "image": "taller_de_fotografia.png",
+      "link": "http://www.puerta18.org.ar/mas18.html#quierosabermassection",
+      "teachers": ""
+    },
+    {
+      "title": "🐂 Frontend",
+      "category": "develop",
+      "description": "Curso de introducción al desarrollo de frontend HTML5 + CSS",
+      "image": "frontend.png",
+      "link": "http://www.puerta18.org.ar/mas18.html#quierosabermassection",
+      "teachers": ""
+    },
+    {
+      "title": "💻 Ilustración Digital",
+      "category": "arte",
+      "description": "Aprende ilustración digital.",
+      "image": "ilustacion_digital.png",
+      "link": "http://www.puerta18.org.ar/mas18.html#quierosabermassection",
+      "teachers": "Nico"
+    },
+    {
+      "title": "☕ Podcast",
+      "category": "tecnologia",
+      "description": "Aprendé a crear tu propio podcast.",
+      "image": "podcast.png",
+      "link": "http://www.puerta18.org.ar/mas18.html#quierosabermassection",
+      "teachers": "Caro"
+    },
+    {
+      "title": "Streamming",
+      "category": "tecnologia",
+      "description": "Aprende a crear tus propios strammings",
+      "image": "streamming.png",
+      "link": "http://www.puerta18.org.ar/mas18.html#quierosabermassection",
+      "teachers": ""
+    },
+    {
+      "title": "💻 Cursos de arte y tecnología",
+      "category": "arte",
+      "description": "Cursos de arte y tecnología libres y gratuitos.",
+      "image": "talleres_de_arte_y_tecnologia.png",
+      "link": "http://www.puerta18.org.ar/mas18.html#quierosabermassection",
+      "teachers": ""
+    }
+  ]
+}
